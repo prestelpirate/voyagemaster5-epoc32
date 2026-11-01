@@ -57,4 +57,5 @@ The SDK's `OPLTRAN.EXE` writes translated apps only to the emulator's read-only 
 
 ## Licence
 
-VoyageMaster 5 is copyright (c) Dolphin Maritime Software. All rights reserved.
+VoyageMaster 5 is copyright (c) Dolphin Maritime Software. After the owner of Dolphin Maritime Software passed away,
+all of its source code was released to the community; this repository is published on that basis.
